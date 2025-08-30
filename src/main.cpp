@@ -1,1 +1,7 @@
-import <iostream>
+import <iostream>;
+using namespace std;
+
+int main() {
+    cout << "Hello, World!" << endl;
+    return EXIT_SUCCESS;
+}
